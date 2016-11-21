@@ -1,0 +1,15 @@
+/bin/
+
+#For VIM and eclim users. 
+.classpath
+.project
+.settings
+*.swp
+
+#For IntelliJ Idea
+*.iml
+.idea
+
+#For Maven plugins
+target/
+generated-sources/
